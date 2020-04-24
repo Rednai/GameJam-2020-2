@@ -31,19 +31,19 @@
     },
     "resources": [
         {
-            "Key": "13ccb13f-5597-45f9-b288-e9708d9ef47d",
-            "Value": {
-                "id": "2935f50a-4cde-4aac-a7a9-a8ca840bc0b3",
-                "resourcePath": "objects\\obj_light\\obj_light.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "0935bb37-8b9f-4ddd-a00f-c3463074f973",
             "Value": {
                 "id": "25e6d6fb-a070-4f03-8f64-9bbff6bf695b",
                 "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "13ccb13f-5597-45f9-b288-e9708d9ef47d",
+            "Value": {
+                "id": "2935f50a-4cde-4aac-a7a9-a8ca840bc0b3",
+                "resourcePath": "objects\\obj_light\\obj_light.yy",
+                "resourceType": "GMObject"
             }
         },
         {
