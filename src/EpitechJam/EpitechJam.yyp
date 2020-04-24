@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "03fb0a2c-5c51-4484-ada3-1c6f11c37272",
-            "Value": {
-                "id": "984b9b74-e6db-4227-9981-550a68cce1ef",
-                "resourcePath": "scripts\\camera_movement\\camera_movement.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "0935bb37-8b9f-4ddd-a00f-c3463074f973",
             "Value": {
                 "id": "25e6d6fb-a070-4f03-8f64-9bbff6bf695b",
@@ -272,7 +264,7 @@
         }
     ],
     "script_order": [
-        "03fb0a2c-5c51-4484-ada3-1c6f11c37272"
+        
     ],
     "tutorial": ""
 }
