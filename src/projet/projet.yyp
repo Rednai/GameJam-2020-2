@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1875398a-2ed0-4328-ab61-7a572e063068",
+            "Value": {
+                "id": "dba940fd-386a-4891-bf0a-6811ac27eb8a",
+                "resourcePath": "sounds\\snd_game_music\\snd_game_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1e31a54d-b315-4473-93c6-780d38b114ce",
             "Value": {
                 "id": "312ca1c9-b724-46a9-a0c1-1bf49be4cc00",
