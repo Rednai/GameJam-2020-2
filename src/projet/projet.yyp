@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "736e8463-1ab7-446d-ae00-1463976ada73",
+            "Value": {
+                "id": "2fad2ea0-bd41-4965-b4c2-9537283d7609",
+                "resourcePath": "sounds\\snd_itempick\\snd_itempick.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "76b38fa3-ea37-4a1c-a4ec-3dd05845d558",
             "Value": {
                 "id": "81a9824f-ae87-411d-bf60-adc794739d1c",
