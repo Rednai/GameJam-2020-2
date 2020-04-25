@@ -2,7 +2,7 @@
     "id": "9a04550a-6bc2-413a-b211-b6a92a5ae39e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_ghost_idle",
+    "name": "spr_ghost_left",
     "For3D": false,
     "HTile": false,
     "VTile": false,
