@@ -69,8 +69,8 @@
             "visible": true,
             "vspeed": 0,
             "vtiled": false,
-            "x": -350,
-            "y": -150
+            "x": 0,
+            "y": 0
         }
     ],
     "modelName": "GMRoom",
