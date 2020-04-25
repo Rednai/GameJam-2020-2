@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "55404698-0f30-441e-8ddb-e062d46be4ac",
+            "Value": {
+                "id": "4d8c75c7-e02e-4045-8b27-a17074020b21",
+                "resourcePath": "objects\\obj_candle\\obj_candle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "643e7f77-13a1-4f44-9981-361bd6c7cb10",
             "Value": {
                 "id": "8fa2413e-b47b-404e-a7c0-d8b7fc5433c6",
@@ -300,14 +308,6 @@
                 "id": "d8e323d9-2fad-4f50-93e5-6e4242d5b3b5",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cd757ab4-745b-4787-8f48-15ce0fc42b7f",
-            "Value": {
-                "id": "00b48819-ce2f-4146-80ff-0af03a3f2de1",
-                "resourcePath": "objects\\obj_object\\obj_object.yy",
-                "resourceType": "GMObject"
             }
         },
         {

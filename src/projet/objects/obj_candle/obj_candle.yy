@@ -1,8 +1,8 @@
 {
-    "id": "cd757ab4-745b-4787-8f48-15ce0fc42b7f",
+    "id": "55404698-0f30-441e-8ddb-e062d46be4ac",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_object",
+    "name": "obj_candle",
     "eventList": [
         
     ],
