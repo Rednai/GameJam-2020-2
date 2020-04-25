@@ -333,6 +333,14 @@
                 "resourcePath": "views\\e4778e08-862c-496a-b1e7-9c998fd5cac6.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "ec99780c-d14f-4142-984b-a69d4f95a62f",
+            "Value": {
+                "id": "44d92ae4-9a16-4fac-a6f3-cbcbe26bc5a0",
+                "resourcePath": "objects\\obj_view_controller\\obj_view_controller.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
