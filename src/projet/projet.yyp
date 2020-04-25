@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "b2bc0eb9-608c-4cee-9445-76368a6cd8f4",
+            "Value": {
+                "id": "b9365e31-6de4-4a84-aa3e-a284e9d0a6a4",
+                "resourcePath": "sounds\\snd_foot\\snd_foot.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "b3b0d0f0-5c98-4d28-b97c-ba6031d7d872",
             "Value": {
                 "id": "d20c3c98-7a3c-4466-b3d0-5eba02fee7b3",
