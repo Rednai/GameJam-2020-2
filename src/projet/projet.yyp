@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "c44a2ca0-972a-49dd-95c6-ed3dc8124fdc",
+            "Value": {
+                "id": "55f783e2-d397-49f8-80cc-7d79038b85c3",
+                "resourcePath": "sounds\\snd_death_oof\\snd_death_oof.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c4a71c51-368b-452f-831f-5405f68fd41b",
             "Value": {
                 "id": "9c9a2300-b76f-42aa-8439-a28992add86c",
