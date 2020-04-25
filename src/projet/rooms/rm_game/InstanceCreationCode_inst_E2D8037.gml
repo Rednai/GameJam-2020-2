@@ -1,1 +1,0 @@
-audio_play_sound(snd_game_music, 0, 1);
