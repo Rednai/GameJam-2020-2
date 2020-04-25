@@ -2,6 +2,8 @@ alpha_room = 0.8;
 factor = 0.4;
 diameter = 55;
 diameter_ghost = 25;
+diameter_candle = 15;
+
 
 
 surf = surface_create(room_width, room_height);

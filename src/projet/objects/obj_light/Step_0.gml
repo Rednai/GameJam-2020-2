@@ -16,6 +16,9 @@ if (surface_exists(surf)) {
 	with (obj_ghost) {
 		draw_circle(x + random_range(-1,1), y + random_range(-1,1), (obj_light.diameter_ghost + obj_light.factor * obj_light.diameter_ghost) + random_range(-1,1), false);
 	}
+	with (obj_candle) {
+		draw_circle(x + random_range(-1,1), y + random_range(-1,1), (obj_light.diameter_candle + obj_light.factor * obj_light.diameter_candle) + random_range(-1,1), false);
+	}
 
 	draw_set_colour(c_white);
 	draw_set_alpha(1);
@@ -24,6 +27,9 @@ if (surface_exists(surf)) {
 	}
 	with (obj_ghost) {
 		draw_circle(x + random_range(-1,1), y + random_range(-1,1), obj_light.diameter_ghost + random_range(-1,1), false);
+	}
+	with (obj_candle) {
+		draw_circle(x + random_range(-1,1), y + random_range(-1,1), obj_light.diameter_candle + random_range(-1,1), false);
 	}
 
 	gpu_set_blendmode(bm_normal);
