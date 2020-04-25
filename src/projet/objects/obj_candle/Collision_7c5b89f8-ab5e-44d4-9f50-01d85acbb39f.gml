@@ -1,4 +1,5 @@
 obj_light.diameter = 55;
+obj_game.candle_count++;
 audio_play_sound(snd_itempick, 0, 0);
 
 // Candle generation

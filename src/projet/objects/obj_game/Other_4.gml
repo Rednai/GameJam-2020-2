@@ -1,6 +1,10 @@
 if (room == rm_game) {
+	candle_count = 0;
+	ghost_count = 0;
+	
 	// Ghost generation
 	repeat (5) {
+		ghost_count++;
 		var xx = irandom_range(32, room_width - 32);
 		var yy = irandom_range(80, room_height - 32);
 
