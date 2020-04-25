@@ -6,6 +6,6 @@ if (argument0 > 1) {
 	text += " lamp\n";
 }
 draw_text(
-	room_width / 2, room_height / 2,
+	room_width / 4 * 3, room_height / 2,
 	 text
 );
