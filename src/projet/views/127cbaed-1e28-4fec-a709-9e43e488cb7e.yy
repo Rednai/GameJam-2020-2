@@ -1,0 +1,13 @@
+{
+    "id": "127cbaed-1e28-4fec-a709-9e43e488cb7e",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "127cbaed-1e28-4fec-a709-9e43e488cb7e",
+    "children": [
+        "6d22e672-05af-4ead-b25f-ef4fb23fbc5b"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "objects",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
