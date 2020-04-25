@@ -2,6 +2,11 @@ if (room == rm_game) {
 	candle_count = 0;
 	ghost_count = 0;
 	
+	candle_frame = 0;
+	ghost_frame = 0;
+	alarm[2] = sprite_get_speed(candle_frame);
+	alarm[3] = sprite_get_speed(ghost_frame);
+	
 	// Ghost generation
 	repeat (5) {
 		ghost_count++;

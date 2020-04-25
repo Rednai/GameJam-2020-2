@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "25416fd4-b956-4701-8aed-6a53c782b4df",
-            "Value": {
-                "id": "93fc3287-7a69-4705-8a01-aa3698a83a34",
-                "resourcePath": "scripts\\print_end\\print_end.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "2d6487ab-0803-417c-b4db-f5cea72c4cfb",
             "Value": {
                 "id": "605a814c-eeed-4380-b44d-6b6fc5f2fab6",
@@ -220,6 +212,14 @@
                 "id": "4d8c75c7-e02e-4045-8b27-a17074020b21",
                 "resourcePath": "objects\\obj_candle\\obj_candle.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "607cadf0-a2fd-44ad-9758-a91f51a001bb",
+            "Value": {
+                "id": "643369f8-c962-40cb-8d4e-df7851ab1ed0",
+                "resourcePath": "sprites\\spr_ghost_gui\\spr_ghost_gui.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "b3830f1f-4c80-49fd-ac9c-827de0f1d8fb",
+            "Value": {
+                "id": "dc38cf19-13b4-4c98-9734-4937f4d3fc17",
+                "resourcePath": "sprites\\spr_candle_gui\\spr_candle_gui.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b3b0d0f0-5c98-4d28-b97c-ba6031d7d872",
             "Value": {
                 "id": "d20c3c98-7a3c-4466-b3d0-5eba02fee7b3",
@@ -530,8 +538,7 @@
     "script_order": [
         "511dabdf-7bda-4916-89d1-37b55703944c",
         "9c69786d-dcec-4606-884c-4c5927be7b1a",
-        "14486ad5-c487-47e8-a071-a38f3950fd37",
-        "25416fd4-b956-4701-8aed-6a53c782b4df"
+        "14486ad5-c487-47e8-a071-a38f3950fd37"
     ],
     "tutorial": ""
 }
