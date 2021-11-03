@@ -1,2 +1,2 @@
-# EpitechJam2
- Repository for the Epitech Jam 2.
+# GameJam
+GameJam Epitech 2020 - Hugo Boichard / Dorian You
