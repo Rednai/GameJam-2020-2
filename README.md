@@ -1,6 +1,6 @@
-# GameJam Epitech 2020
+# GameJam Epitech 2020-2
 
-This game has been created for the Epitech Jam 2020 with the themes `light` and `escape`. It was made on GameMakerStudio by Hugo Boichard, Dorian You and Roland de Verneuil.
+This game has been created for the second epitech jam of 2020 with the themes `light` and `escape`. It was made on GameMakerStudio by Hugo Boichard, Dorian You and Roland de Verneuil.
 You can download an archive with the game executable [here](https://drive.google.com/file/d/1eVCw-0gtgzNISP_FI9HkJjfPZHTJSpS1/view?usp=sharing).
 
 ![gameplay](doc/gameplay.png)
